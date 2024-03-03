@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/github/Horror-game-prototype/HorrorEngine/Content/Industrial_tost_pack/Walls/DoorFrame.uasset",
+				"E:/github/Horror-game-prototype/HorrorEngine/Content/Industrial_tost_pack/Walls/LabWall_cut.uasset",
+				"E:/github/Horror-game-prototype/HorrorEngine/Content/SlidingDoor1.uasset",
+				"E:/github/Horror-game-prototype/HorrorEngine/Content/Test_Maps/SlidingDoor1.uasset",
+				"E:/github/Horror-game-prototype/HorrorEngine/Content/Test_Maps/test_door.uasset",
+				"E:/github/Horror-game-prototype/HorrorEngine/Content/Test_Maps/test_map_abi.umap",
 				"D:/Repozytoria/Horror-game-prototype/HorrorEngine/Content/Industrial_tost_pack/Walls/Materials/Pilars_Material.uasset",
 				"D:/Repozytoria/Horror-game-prototype/HorrorEngine/Content/Industrial_tost_pack/Walls/Textures/pilar_Material_Roughness.uasset",
 				"D:/Repozytoria/Horror-game-prototype/HorrorEngine/Content/Industrial_tost_pack/Walls/Textures/pilar_Material_BaseColor.uasset",
